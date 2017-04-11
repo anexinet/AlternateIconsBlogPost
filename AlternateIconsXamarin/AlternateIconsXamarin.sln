@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternateIconsXamarin", "AlternateIconsXamarin\AlternateIconsXamarin.csproj", "{08F875DD-08C9-4959-9AF7-BFB0DE70BFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F875DD-08C9-4959-9AF7-BFB0DE70BFFB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{08F875DD-08C9-4959-9AF7-BFB0DE70BFFB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{08F875DD-08C9-4959-9AF7-BFB0DE70BFFB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{08F875DD-08C9-4959-9AF7-BFB0DE70BFFB}.Release|iPhone.Build.0 = Release|iPhone
+		{08F875DD-08C9-4959-9AF7-BFB0DE70BFFB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{08F875DD-08C9-4959-9AF7-BFB0DE70BFFB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{08F875DD-08C9-4959-9AF7-BFB0DE70BFFB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{08F875DD-08C9-4959-9AF7-BFB0DE70BFFB}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
